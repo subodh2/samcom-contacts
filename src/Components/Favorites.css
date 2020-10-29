@@ -1,0 +1,11 @@
+.fav-users {
+	margin-top: 30px; 
+}
+
+.fav-users .each-user{
+	border: 1px solid red;
+	width: 500px;
+	margin: auto;
+	border-radius: 10px; 
+}
+

@@ -1,0 +1,26 @@
+.users span{
+	margin-top: 30px;
+	display: block;
+}
+
+.users .sort {
+	margin-bottom: 20px;
+}
+
+.users a {
+	margin: 10px auto 10px;
+	display: block;
+}
+
+.users a div {
+	width: 80%;
+	border: 1px dotted white;
+	margin: auto;
+	background-color: #101010;
+	border-radius: 25px;
+}
+
+.users .user-name, image {
+	display: inline-block;
+	width: 50%;
+}

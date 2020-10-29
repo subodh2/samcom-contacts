@@ -1,0 +1,21 @@
+#menu {
+	padding-top: 20px;
+	display: flex;
+	align-items: center;
+	flex-direction: row;
+	justify-content: center;
+}
+
+.menu-item:hover {
+	box-shadow: 0 12px 16px 0 rgba(255,255,255,0.24);
+	cursor: pointer;
+}
+
+.menu-item {
+	width: 300px;
+}
+
+.menu-item a {
+	text-decoration: none;
+	color: white;
+}

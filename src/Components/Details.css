@@ -1,0 +1,21 @@
+.user-details {
+	width: 80%;
+	min-width: 400px;
+	background-color: #dfdfdf;
+	margin: 20px auto;
+}
+
+.user-details img {
+	padding-top: 10px;
+	width: 200px;
+	border-radius: 30%; 
+}
+
+.user-details p {
+	color: black;
+}
+
+.user-details button {
+	color: white;
+	background-color: #fe1100; 
+}
